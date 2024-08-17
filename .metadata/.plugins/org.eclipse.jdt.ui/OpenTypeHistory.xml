@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=test/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;book.commerce.test.service{AddressService.java[AddressService" modifiers="513" timestamp="1718514349866"/>
+    <typeInfo handle="=test/C:\/exe\/sts-4.14.0.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208\/jre\/lib\/jrt-fs.jar`java.base=/maven.pomderived=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/&lt;java.lang(Exception.class[Exception" modifiers="33" timestamp="1709441416578"/>
+    <typeInfo handle="=test/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;book.commerce.test.service{AuthorService.java[AuthorService" modifiers="513" timestamp="1718385171856"/>
+    <typeInfo handle="=test/C:\/Users\/debay\/.m2\/repository\/org\/springframework\/security\/spring-security-core\/5.7.4\/spring-security-core-5.7.4.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.security=/=/maven.artifactId=/spring-security-core=/=/maven.version=/5.7.4=/=/maven.scope=/compile=/&lt;org.springframework.security.authorization(AuthorizationManager.class[AuthorizationManager" modifiers="1537" timestamp="1718429718398"/>
+    <typeInfo handle="=test/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;book.commerce.test.service{BookService.java[BookService" modifiers="513" timestamp="1718386500816"/>
+    <typeInfo handle="=test/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;book.commerce.test.service{CustomerService.java[CustomerService" modifiers="513" timestamp="1718385418024"/>
+    <typeInfo handle="=test/C:\/Users\/debay\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.6.12.Final\/hibernate-core-5.6.12.Final.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate=/=/maven.artifactId=/hibernate-core=/=/maven.version=/5.6.12.Final=/=/maven.scope=/compile=/&lt;org.hibernate(CustomEntityDirtinessStrategy.class[CustomEntityDirtinessStrategy" modifiers="1537" timestamp="1718429686105"/>
+    <typeInfo handle="=test/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;book.commerce.test.service{OrderService.java[OrderService" modifiers="513" timestamp="1721235752369"/>
+    <typeInfo handle="=test/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;book.commerce.test.service{UserService.java[UserService" modifiers="513" timestamp="1718386595907"/>
+</typeInfoHistroy>
