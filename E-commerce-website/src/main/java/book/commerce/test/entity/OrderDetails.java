@@ -3,11 +3,12 @@ package book.commerce.test.entity;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
+
+import org.hibernate.annotations.GenericGenerator;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -24,7 +25,8 @@ import lombok.NoArgsConstructor;
 public class OrderDetails {
 
 	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO)
+	@GenericGenerator(name = "order_details_id_generator", strategy = "book.commerce.test.generator.OrderDetailsIdGenerator")
+	@GeneratedValue(generator = "order_details_id_generator")
 	@Column(name = "details_id")
 	private String detailsId;
 
